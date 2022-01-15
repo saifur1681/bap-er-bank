@@ -7,7 +7,7 @@ document.getElementById("login-button").addEventListener('click', function () {
     const userPassword = passwordField.value;
 
 
-    // condition
+    // condition......
 
     if (userEmail == 'sontan@bap.com' && userPassword == 'secret') {
         window.location.href = 'banking.html'
